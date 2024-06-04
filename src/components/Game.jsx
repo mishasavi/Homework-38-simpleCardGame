@@ -1,5 +1,5 @@
 import React, {useEffect, useRef, useState} from 'react';
-import {createRandomDeck, resultPage} from "./utils/constants.js";
+import {createRandomDeck, resultPage} from "../utils/constants.js";
 import '../styles/Game.css'
 const Game = ({changePage,name,currentScore,setCurrentScore}) => {
 

@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {gamePage} from "./utils/constants.js";
+import {gamePage} from "../utils/constants.js";
 import '../styles/Start.css';
 
 const Start = ({changePage,changeName}) => {

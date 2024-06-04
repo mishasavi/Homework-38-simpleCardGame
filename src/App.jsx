@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import {gamePage, resultPage, startPage} from "./components/utils/constants.js";
+import {gamePage, resultPage, startPage} from "./utils/constants.js";
 import Game from "./components/Game.jsx";
 import Result from "./components/Result.jsx";
 import Start from "./components/Start.jsx";
